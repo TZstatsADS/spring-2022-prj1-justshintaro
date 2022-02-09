@@ -16,18 +16,18 @@ Term: Spring 2022
 
 + ■ Agenda ■<br>
 1.Data Processing<br>
-Sentiement/Emotion Score<br>
-Gender Mntioend Score<br>
+-Sentiement/Emotion Score<br>
+-Gender Mntioend Score<br>
 2.Analysis in Feminism School<br>
-Complexity of Words<br>
-Sentiment Analysis<br>
-Most Frequently Used Words<br>
-Dynamics of Relationship<br>
-Article Summarization<br>
-Topic Modeling<br>
+-Complexity of Words<br>
+-Sentiment Analysis<br>
+-Most Frequently Used Words<br>
+-Dynamics of Relationship<br>
+-Article Summarization<br>
+-Topic Modeling<br>
 3.Comparison with Other School Philosophers<br>
-Why Do We Need to Look at Other School Philosophers?<br>
-Most Frequently Used Words<br>
+-Why Do We Need to Look at Other School Philosophers?<br>
+-Most Frequently Used Words<br>
 4.Summary
 
 
